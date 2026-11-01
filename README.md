@@ -31,7 +31,7 @@ streamlit run app.py
 
 ## Link do app no Streamlit
 
-COLE_AQUI_O_LINK.streamlit.app
+https://cadastro-pacientes-nayarabelo.streamlit.app
 
 ## Comparação rápida
 
