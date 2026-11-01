@@ -18,12 +18,15 @@ Campos: nome, idade, convênio, prioridade (1 a 5) e motivo da consulta. Cada ca
 ```
 pip install -r gradio_app/requirements.txt
 
+# versão Gradio
 cd gradio_app
 python app.py
 # abre em http://127.0.0.1:7860
 
+# versão Streamlit (em outro terminal, a partir da pasta do projeto)
 cd streamlit_app
 streamlit run app.py
+
 ```
 
 ## Link do app no Streamlit
